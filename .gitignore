@@ -1,0 +1,4 @@
+*.sdk
+*.sol
+__pycache__
+*.copy
